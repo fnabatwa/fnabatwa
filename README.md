@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Fidelis Leo Bwire👋
 
-<!--
-**fnabatwa/fnabatwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Software Development student  
+💻 Skilled in PHP, SQL, Python, Java, JavaScript, C#, HTML, CSS  
+🔐 Interested in cybersecurity, digital forensics, and web app security  
+🎨 Love experimenting with color palettes, UI/UX, and creative workflows  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [Library](https://github.com/fnabatwa/Library)
+- [sketchpad](https://github.com/fnabatwa/sketchpad)
+- [Trade Management System](https://github.com/fnabatwa/Trade-Management-System)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- Email: fnabatwa.com
