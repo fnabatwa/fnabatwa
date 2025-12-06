@@ -1,8 +1,8 @@
 # Hi, I'm Fidelis Leo Bwire👋
 
 🎓 Third-year Software Development student  
-💻 Skilled in PHP, SQL, Python, Java, JavaScript, C#, HTML, CSS  
-🔐 Interested in cybersecurity, digital forensics, and web app security  
+💻 Skilled in PHP, SQL, Python, Java, JavaScript, HTML, CSS, Flutter
+🔐 Interested in cybersecurity, Mobile development and web app development  
 🎨 Love experimenting with color palettes, UI/UX, and creative workflows  
 
 ## 🚀 Projects
